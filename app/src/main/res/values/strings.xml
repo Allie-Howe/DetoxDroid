@@ -45,6 +45,10 @@
     <string name="home.uninstall.dialog.title">Are You Sure?</string>
     <string name="home.uninstall.dialog.message">Pressing \"Uninstall\" will revoke permissions that you granted to DetoxDroid. You will then be able to uninstall it normally.\n\nIf you choose to use DetoxDroid again, you will have to grant these permissions again.</string>
 
+    <string name="feature.allie">PIN Protection</string>
+    <string name="feature.allie.subtitle">Resist temptation by adding a PIN</string>
+    <string name="feature.allie.description">Adding a PIN can make you less likely to disable Grayscale mode. You could also get a trusted person to enter a PIN.</string>
+
     <string name="feature.doNotDisturb">\"Do Not Disturb\" Mode</string>
     <string name="feature.doNotDisturb.subtitle">Make it your new default</string>
     <string name="feature.doNotDisturb.description">DetoxDroid automatically (re-)activates the do not disturb mode. Exceptions can be made with the system settings.</string>

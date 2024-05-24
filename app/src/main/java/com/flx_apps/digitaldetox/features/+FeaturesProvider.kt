@@ -24,6 +24,7 @@ object FeaturesProvider {
      * order in which they are displayed in the UI.
      */
     val featureList = listOf(
+        AllieFeature,
         GrayscaleAppsFeature,
         DoNotDisturbFeature,
         BreakDoomScrollingFeature,
